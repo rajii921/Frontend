@@ -1,0 +1,55 @@
+.container{
+    background-image: url(https://as2.ftcdn.net/v2/jpg/02/90/71/11/1000_F_290711146_8wStABCyRjhC7t8PtRThDZKg6AQ8bRna.jpg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.l{
+    margin-top: 24px;
+    margin-left: -50px; 
+    font-size: 20px;
+}
+.sub-container1{
+    display: flex;
+     font-size: 15px; 
+     font-weight: 2em;
+     color: white;
+}
+.sub-container2{
+    margin-left: 100px;
+    padding-top: 10px;
+
+}
+.head{
+    font-size: 60px;
+    font-weight: bolder;
+    color: rgb(17, 185, 129);
+}
+.h2{
+    font-size: 50px;
+    font-weight: lighter;
+    margin-top: -40px;
+}
+.para{
+    margin-top: -25px;
+    font-size: 25px;
+    font-weight: lighter;
+    margin-right: 490px;
+}
+
+.butn{
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 20px;
+    padding: 5px 15px ;
+    background-color: rgb(217, 97, 221);
+}
+.dot{
+    font-size: 30px;
+    margin:  20px 60px;
+    color: white;
+    border-radius: 50%;
+    width: 25px;
+    font-weight: 100;
+
+}
